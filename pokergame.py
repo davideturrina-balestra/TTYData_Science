@@ -3,9 +3,9 @@ from itertools import combinations
 from collections import Counter
 import sys
 
-#!/usr/bin/env python3
+#!/usr/bin/env python3 adasdasdasdasd
 # Simple, fast Texas Hold'em showdown for 2-9 players (CLI)
-# Save as untitled_poker.py and run with Python 3
+# Save as untitled_poker.py and run with Python 3 asdasdasd fafasfasfasf
 
 
 RANKS = list(range(2, 15))  # 2..14 (14 is Ace)
